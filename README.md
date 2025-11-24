@@ -1,1 +1,1 @@
-# rubrica-c-
+# rubrica-cpp
